@@ -1,15 +1,15 @@
 # Brainfuck interpreter
 
-**Интерпретатор языка brainfuck на C++. Проект, выполненный в Школе 21.**
+**Brainfuck interpreter in C++. A project completed at Ecole42.**
 
-## Сборка
+## Build
 
 make
 
-## Запуск
+## Run
 
-./mindopen путь_к_файлу_с_кодом_на_bf
+./mindopen path_to_brainfuck_code_file
 
-## Пример
+## Example
 
 ./mindopen examples/triangle.bf
